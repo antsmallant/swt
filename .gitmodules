@@ -3,8 +3,8 @@
 	url = https://github.com/cloudwu/lua-cjson
 [submodule "3rd/luaprofile"]
 	path = 3rd/luaprofile
-	url = https://github.com/lsg2020/luaprofile
+	url = https://github.com/antsmallant/luaprofile
 [submodule "skynet"]
 	path = skynet
-	url = https://github.com/lsg2020/skynet
+	url = https://github.com/antsmallant/skynet
 	branch = skynet_profile
